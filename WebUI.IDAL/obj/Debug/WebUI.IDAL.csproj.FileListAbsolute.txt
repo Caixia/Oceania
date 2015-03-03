@@ -1,0 +1,14 @@
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\obj\Debug\WebUI.IDAL.csprojResolveAssemblyReference.cache
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\bin\Debug\WebUI.IDAL.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\bin\Debug\WebUI.IDAL.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\bin\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\bin\Debug\WebUI.Model.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\obj\Debug\WebUI.IDAL.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.IDAL\obj\Debug\WebUI.IDAL.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\bin\Debug\WebUI.IDAL.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\bin\Debug\WebUI.IDAL.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\bin\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\bin\Debug\WebUI.Model.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\obj\Debug\WebUI.IDAL.csprojResolveAssemblyReference.cache
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\obj\Debug\WebUI.IDAL.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.IDAL\obj\Debug\WebUI.IDAL.pdb
