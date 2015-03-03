@@ -1,0 +1,8 @@
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.Model\bin\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.Model\bin\Debug\WebUI.Model.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.Model\obj\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI\WebUI.Model\obj\Debug\WebUI.Model.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.Model\bin\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.Model\bin\Debug\WebUI.Model.pdb
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.Model\obj\Debug\WebUI.Model.dll
+D:\source\TFS\DevelopmentVersion\WebUI\Oceania\WebUI.Model\obj\Debug\WebUI.Model.pdb
